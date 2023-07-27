@@ -1,0 +1,6 @@
+
+Receipt:
+Nama: mifta
+NoHp: 0812
+Order: 1
+Total: Rp12000.0
